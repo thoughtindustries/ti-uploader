@@ -1,0 +1,14 @@
+{
+  "name": "ti-uploader",
+  "description": "npm hosted uploader for ti",
+  "version": "1.0.0",
+  "author": "Chris McC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thoughtindustries/ti-uploader.git"
+  },
+  "main": "jquery.damnUploader.js",
+  "devDependencies": {
+  }
+}
